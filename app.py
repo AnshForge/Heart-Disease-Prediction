@@ -1,6 +1,7 @@
 import streamlit as st
 import joblib
 import pandas as pd 
+
 import time 
 
 st.set_page_config(
@@ -58,8 +59,10 @@ hr{
 """, unsafe_allow_html=True)
 
 
+
 model = joblib.load("models/heart_disease_model.pkl")
 scaler = joblib.load("models/scaler.pkl")
+
 
 # Sidebar
 st.sidebar.title(" ML Heart Predictor")
