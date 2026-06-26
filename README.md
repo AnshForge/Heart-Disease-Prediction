@@ -8,7 +8,7 @@ A machine learning web application that predicts the likelihood of heart disease
 
 🔗 **Try the application here**
 
-heart-risk-estimator.streamlit.app/
+https://heart-risk-estimator.streamlit.app/
 
 ---
 
