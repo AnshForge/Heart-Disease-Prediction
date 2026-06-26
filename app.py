@@ -16,7 +16,7 @@ st.sidebar.markdown("---")
 
 st.title("Heart Disease Prediction")
 
-st.image("image/banner.png", width=380)
+st.image("images/banner.png", width=380)
 
 st.markdown(
 "Predict the likelihood of heart disease using a machine learning model trained on clinical patient data."
