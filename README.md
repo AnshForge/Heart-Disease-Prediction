@@ -210,18 +210,6 @@ Always consult a qualified healthcare professional regarding any medical concern
 
 ---
 
-# 🔮 Future Improvements
-
-- Hyperparameter tuning
-- Explainable AI (SHAP)
-- Docker deployment
-- Prediction history
-- User authentication
-- REST API
-- Cloud deployment improvements
-
----
-
 # 👨‍💻 Author
 
 **Ansh Gupta**
